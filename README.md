@@ -1,6 +1,6 @@
-## Hello Eu sou João Oliveira, Adoro tecnologia e gosto de oferecer soluções!
+## Hello, I'm João Oliveira, I love technology and I enjoy providing solutions!
 
-:D Amante de tecnologia desde a infância, apaixonado por computadores. :)
+:D A tech lover since childhood, passionate about computers. :)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
